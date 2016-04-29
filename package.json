@@ -1,0 +1,13 @@
+{
+  "name": "node-express-adventure",
+  "version": "1.0.0",
+  "description": "Node and Express adventures",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raphael D. Pinheiro",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
